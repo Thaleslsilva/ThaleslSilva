@@ -1,5 +1,6 @@
 ### Thales de Lima Silva
 
+- 📫 How to reach me:
 [![GitHub Badge](https://img.shields.io/github/followers/Thaleslsilva?style=social)](https://github.com/Thaleslsilva)
 [![Twitter Badge](https://img.shields.io/twitter/follow/Thaleslsilva?style=social)](https://twitter.com/Thaleslsilva)
 [![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/thales-lima-silva-77a99378/)
