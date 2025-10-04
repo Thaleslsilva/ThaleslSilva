@@ -4,7 +4,7 @@
 [![Twitter Badge](https://img.shields.io/twitter/follow/Thaleslsilva?style=social)](https://twitter.com/Thaleslsilva)
 [![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/thales-lima-silva-77a99378/)
 [![Gmail Badge](https://img.shields.io/badge/-medvet21@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:medvet21@gmail.com)](mailto:medvet21@gmail.com)
-[![Outlook Badge](https://img.shields.io/badge/-tl.silva@unesp.br-0078d4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:tl.silva@unesp.br)](mailto:tl.silva@unesp.br)
+[![Outlook Badge](https://img.shields.io/badge/-tl.silva@usp.br-0078d4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:tl.silva@usp.br)](mailto:tl.silva@usp.br)
 [![Google Scholar Badge](https://img.shields.io/badge/Google-Scholar-lightgrey)](https://scholar.google.com/citations?user=-gkii1kAAAAJ&hl=pt-PT)
 
 
