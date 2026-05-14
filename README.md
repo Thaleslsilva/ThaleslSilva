@@ -26,23 +26,23 @@
 
 ## 🧬 About Me
 
-I am a researcher and data scientist with a strong interdisciplinary background in **Animal Science, Genomics, and Bioinformatics**. My work bridges traditional agricultural sciences with modern computational approaches to solve complex biological questions.
+I'm a Bioinformatician and Data Scientist with a strong interdisciplinary background in **Animal Science, Genomics, and Bioinformatics**. My work bridges traditional agricultural sciences with modern computational approaches to solve complex biological questions.
 
 - 🎓 **PhD in Genetics and Animal Breeding** — FCAV/UNESP (2023)
 - 🎓 **MSc in Zootechnics (Genetics & Animal Breeding)** — UESB (2019)
 - 🎓 **MBA in Agribusiness** — ESALQ/USP (2015)
 - 🎓 **BSc in Veterinary Medicine** — PUC Minas (2012)
 
-My doctoral research focused on **genome-wide association studies (GWAS)** to identify genomic regions and metabolic pathways associated with functional traits in Nellore cattle, under the supervision of Prof. Roberto Carvalheiro at FCAV/UNESP.
+Currently I'm a **Postdoctoral Researcher at FMVZ/USP**, working at the frontier of pangenomics and structural variant analysis in livestock genomes.
 
 ---
 
 ## 🔬 Research Interests
 
-- Quantitative Genetics & Genomic Selection
-- Genome-Wide Association Studies (GWAS)
-- Genotype-Environment Interaction (Reaction Norms)
 - Bioinformatics & High-Density Genomic Data Analysis
+- Quantitative Genetics & Genomic Selection
+- Pangenome graph construction (multi-assembly, ONT & PacBio HiFi long-read)
+- Structural variant calling & population-scale genotyping (NGS short + long-read)
 - Machine Learning applied to Animal Breeding
 - Business Intelligence & Data Analytics
 
@@ -73,9 +73,9 @@ My doctoral research focused on **genome-wide association studies (GWAS)** to id
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [🧬 Genomics](https://github.com/Thaleslsilva/Genomics) | Tools for data analysis in genomics and animal genetic improvement | R |
-| [🐄 DataCattle](https://github.com/Thaleslsilva/DataCattle) | Data analysis tools for the Brazilian beef cattle market | Python, Jupyter |
-| [📊 DataScience](https://github.com/Thaleslsilva/DataScience) | Data science projects and analyses | Python, Jupyter |
+| [🧬 Genomics](https://github.com/Thaleslsilva/Genomics) | Tools for data analysis in genomics and animal breeding | R |
+| [🐄 DataCattle](https://github.com/Thaleslsilva/DataCattle) | Data analysis tools for the livestock production and beef cattle market | Python, Jupyter |
+| [📊 DataScience](https://github.com/Thaleslsilva/DataScience) | General Data science projects and analyses | Python, Jupyter |
 
 ---
 
@@ -91,7 +91,7 @@ My doctoral research focused on **genome-wide association studies (GWAS)** to id
 ## 📫 Get in Touch
 
 - 📧 Email: [medvet21@gmail.com](mailto:medvet21@gmail.com) | [tl.silva@usp.br](mailto:tl.silva@usp.br)
-- 💼 LinkedIn: [thales-lima-silva-77a99378](https://www.linkedin.com/in/thales-lima-silva-77a99378/)
+- 💼 LinkedIn: [thales-silva-bioinfo](https://www.linkedin.com/in/thales-silva-bioinfo/)
 - 🌐 Website: [datacattle.net](https://datacattle.net)
 - 🐦 Twitter: [@Thaleslsilva](https://twitter.com/Thaleslsilva)
 - 📍 Pirassununga, SP, Brazil
