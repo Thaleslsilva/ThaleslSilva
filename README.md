@@ -83,7 +83,6 @@ Currently I'm a **Postdoctoral Researcher at FMVZ/USP**, working at the frontier
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Thaleslsilva&theme=default" alt="Top Languages" height="165"/>
-  
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Thaleslsilva&theme=default" alt="GitHub Stats" height="165"/>
 </p>
 
