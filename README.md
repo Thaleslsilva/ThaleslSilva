@@ -82,8 +82,9 @@ Currently I'm a **Postdoctoral Researcher at FMVZ/USP**, working at the frontier
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Thaleslsilva&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thaleslsilva&hide=javascript,go,html&layout=compact&theme=default&hide_border=true" alt="Top Languages" height="165"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Thaleslsilva&theme=default" alt="Top Languages" height="165"/>
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Thaleslsilva&theme=default" alt="GitHub Stats" height="165"/>
 </p>
 
 ---
