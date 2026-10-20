@@ -26,9 +26,7 @@
 
 ## 🧬 About Me
 
-I'm a Bioinformatician and Data Scientist working on pangenomics, structural variants, and GWAS in livestock genomes. My work connects animal breeding with computational biology to answer one question: which genomic variants explain adaptation in tropical cattle?
-
-I recently completed a postdoc at FMVZ/USP (2023-2026), where I led **COWADAPT**, a bovine pangenome graph project developed with ETH Zurich (Animal Genomics Group) to capture Nellore sequences missing from the standard reference genome.
+I'm a Bioinformatician and Data Scientist working on pangenomics, structural variants, and GWAS in livestock genomes. My work connects animal breeding to computational biology to address questions such as: which genomic variants explain adaptation in tropical cattle?
 
 **What I do**
 
@@ -40,12 +38,13 @@ I recently completed a postdoc at FMVZ/USP (2023-2026), where I led **COWADAPT**
 
 **Academic background**
 
+- 🎓 **Postdoctoral researcher and leader of the COWADAPT Project**, FMVZ/USP (2023–2026)
 - 🎓 **PhD in Genetics and Animal Breeding**, FCAV/UNESP (2023)
 - 🎓 **MSc in Zootechnics (Genetics & Animal Breeding)**, UESB (2019)
 - 🎓 **MBA in Agribusiness**, ESALQ/USP (2015)
 - 🎓 **DVM in Veterinary Medicine**, PUC Minas (2012)
 
-**Open to roles** in computational biology, genomics, and precision livestock, and to collaborations on pangenomics and population-scale genomic analyses.
+**I am interested** in computational biology, genomics, and precision livestock farming, as well as collaborations in pangenomics and population-scale genomic analyses.
 
 ---
 
